@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <array name="frutas">
+        <item>melocoton</item>
+        <item>platano</item>
+        <item>fresa</item>
+        <item>naranxa</item>
+        <item>uvas</item>
+        <item>mandarinas</item>
+        <item>pera</item>
+    </array>
+    <string name="title_activity_spin_frutas">SpinFrutas</string>
+</resources>
